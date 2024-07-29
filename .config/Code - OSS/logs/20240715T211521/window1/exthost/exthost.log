@@ -1,0 +1,10 @@
+2024-07-15 21:15:23.392 [info] Extension host with pid 680 started
+2024-07-15 21:15:23.392 [info] Skipping acquiring lock for /home/carti/.config/Code - OSS/User/workspaceStorage/5453dc18271a1bc20ee5b8366921844f.
+2024-07-15 21:15:23.545 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-07-15 21:15:23.815 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-07-15 21:15:23.845 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-07-15 21:15:23.933 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-07-15 21:15:24.006 [info] Eager extensions activated
+2024-07-15 21:15:24.026 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-07-15 21:15:24.030 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-07-15 21:15:24.173 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

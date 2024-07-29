@@ -1,0 +1,5 @@
+[stream-properties]
+Audio/Sink:node.name:auto_null={"channelVolumes":[1.000000, 1.000000], "volume":1.000000, "mute":false, "channelMap":["FL", "FR"]}
+Output/Audio:application.name:Chromium={"mute":false, "channelVolumes":[1.000000, 1.000000], "volume":1.000000, "channelMap":["FL", "FR"]}
+Output/Audio:application.name:Firefox={"mute":false, "channelVolumes":[0.270002, 0.270002], "volume":1.000000, "channelMap":["FL", "FR"]}
+Output/Audio:media.role:Notification={"volume":1.000000, "mute":false, "channelVolumes":[1.000000, 1.000000], "channelMap":["FL", "FR"]}

@@ -1,0 +1,16 @@
+#!/bin/bash
+
+muted=$(pactl list sinks | awk '/Mute:/ { print $2 }')
+vol=$(pactl list sinks | grep Volume: | awk 'FNR == 1 { print $5 }' | cut -f1 -d '%')
+
+if [ "$muted" = "yes" ]; then
+	echo " muted"
+else
+	if [ "$vol" -ge 65 ]; then
+		echo " $vol%"
+	elif [ "$vol" -ge 40 ]; then
+		echo " $vol%"
+	elif [ "$vol" -ge 0 ]; then
+		echo " $vol%"	
+	fi
+fi

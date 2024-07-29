@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/carti/dwm" added="2024-06-04T18:41:18.638597Z" modified="2024-07-20T11:22:33.179871Z" visited="2024-06-04T18:41:18.638598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-07-20T11:22:33.179870Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/.config/dwmblocks" added="2024-07-03T17:26:59.080592Z" modified="2024-07-28T11:18:29.315072Z" visited="2024-07-03T17:26:59.080593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-07-28T11:18:29.315071Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads/Mcve4cI6.html" added="2024-07-03T18:12:33.688932Z" modified="2024-07-03T18:12:33.688935Z" visited="2024-07-03T18:12:33.688933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-zerosize"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-03T18:12:33.688934Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads/logo.svg" added="2024-07-06T19:02:29.873728Z" modified="2024-07-06T19:02:29.873732Z" visited="2024-07-06T19:02:29.873729Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-06T19:02:29.873730Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/.config/dwmblocks/blocks.h" added="2024-07-09T17:50:09.659674Z" modified="2024-07-09T17:50:09.659678Z" visited="2024-07-09T17:50:09.659675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-chdr"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-07-09T17:50:09.659676Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/dwm/patches" added="2024-07-10T18:58:02.399344Z" modified="2024-07-10T18:58:02.399346Z" visited="2024-07-10T18:58:02.399344Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2024-07-10T18:58:02.399345Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads/SourceCodePro.zip" added="2024-07-10T19:14:10.605328Z" modified="2024-07-10T19:14:10.605333Z" visited="2024-07-10T19:14:10.605329Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-10T19:14:10.605330Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads/Recursive.zip" added="2024-07-10T19:14:49.828675Z" modified="2024-07-10T19:14:49.828680Z" visited="2024-07-10T19:14:49.828675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-10T19:14:49.828677Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads/Overpass.zip" added="2024-07-10T19:18:35.015474Z" modified="2024-07-10T19:18:35.015478Z" visited="2024-07-10T19:18:35.015474Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-10T19:18:35.015476Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads/RobotoMono.zip" added="2024-07-10T19:18:53.320742Z" modified="2024-07-10T19:18:53.320748Z" visited="2024-07-10T19:18:53.320743Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-10T19:18:53.320745Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads/RobotoMono(1).zip" added="2024-07-10T19:19:01.461960Z" modified="2024-07-10T19:19:01.461965Z" visited="2024-07-10T19:19:01.461961Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-10T19:19:01.461962Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads/RobotoMono(2).zip" added="2024-07-10T19:19:02.264778Z" modified="2024-07-10T19:19:02.264808Z" visited="2024-07-10T19:19:02.264778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-10T19:19:02.264781Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads/JetBrainsMono.zip" added="2024-07-10T19:25:18.691384Z" modified="2024-07-10T19:25:18.691388Z" visited="2024-07-10T19:25:18.691384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-10T19:25:18.691386Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads/RobotoMono(3).zip" added="2024-07-10T20:10:57.115472Z" modified="2024-07-10T20:10:57.115475Z" visited="2024-07-10T20:10:57.115472Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-10T20:10:57.115473Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads/linux.zip" added="2024-07-11T16:30:21.405565Z" modified="2024-07-11T16:30:21.405625Z" visited="2024-07-11T16:30:21.405565Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-07-11T16:30:21.405604Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2024-07-23T18:11:27.687208Z" modified="2024-07-23T18:45:24.448011Z" visited="2024-07-23T18:11:27.687209Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-23T18:45:24.448009Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///" added="2024-07-23T18:11:28.901263Z" modified="2024-07-28T10:48:30.622764Z" visited="2024-07-23T18:11:28.901264Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-28T10:48:30.622762Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="recent:///" added="2024-07-23T18:11:29.339172Z" modified="2024-07-28T10:48:30.945572Z" visited="2024-07-23T18:11:29.339172Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-28T10:48:30.945571Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Desktop" added="2024-07-23T18:11:29.831007Z" modified="2024-07-28T10:48:39.723485Z" visited="2024-07-23T18:11:29.831007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-28T10:48:39.723483Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti" added="2024-07-23T18:11:31.831304Z" modified="2024-07-28T10:48:40.020382Z" visited="2024-07-23T18:11:31.831304Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-28T10:48:40.020380Z" count="17"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="computer:///" added="2024-07-23T18:11:32.610066Z" modified="2024-07-28T10:48:38.128138Z" visited="2024-07-23T18:11:32.610067Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-28T10:48:38.128137Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="network:///" added="2024-07-23T18:45:29.431321Z" modified="2024-07-23T18:45:29.431328Z" visited="2024-07-23T18:45:29.431325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-23T18:45:29.431327Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Downloads" added="2024-07-23T18:46:33.076135Z" modified="2024-07-28T10:45:43.883123Z" visited="2024-07-23T18:46:33.076135Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-28T10:45:43.883119Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Images" added="2024-07-28T10:42:37.412333Z" modified="2024-07-28T10:48:41.544087Z" visited="2024-07-28T10:42:37.412333Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-28T10:48:41.544086Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/Images/wallpalper.jpg" added="2024-07-28T10:45:11.447532Z" modified="2024-07-28T10:45:11.447535Z" visited="2024-07-28T10:45:11.447532Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-28T10:45:11.447533Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carti/.thunderbird" added="2024-07-28T10:45:29.744475Z" modified="2024-07-28T10:45:29.744479Z" visited="2024-07-28T10:45:29.744476Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-07-28T10:45:29.744477Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

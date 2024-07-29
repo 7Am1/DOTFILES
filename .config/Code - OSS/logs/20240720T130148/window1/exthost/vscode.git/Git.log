@@ -1,0 +1,37 @@
+2024-07-20 13:01:52.924 [info] Log level: Info
+2024-07-20 13:01:52.924 [info] Validating found git in: "git"
+2024-07-20 13:01:52.924 [info] Using git "2.45.2" from "git"
+2024-07-20 13:01:52.924 [info] > git rev-parse --show-toplevel [11ms]
+2024-07-20 13:01:52.930 [info] > git rev-parse --git-dir --git-common-dir [11ms]
+2024-07-20 13:01:52.937 [info] Open repository: /home/carti/.config/dwmblocks
+2024-07-20 13:01:52.971 [info] > git config --get commit.template [21ms]
+2024-07-20 13:01:52.973 [info] > git rev-parse --show-toplevel [7ms]
+2024-07-20 13:01:52.992 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-07-20 13:01:52.998 [warning] ENOENT: no such file or directory, open '/home/carti/.config/dwmblocks/.git/refs/remotes/origin/master'
+2024-07-20 13:01:53.006 [info] > git rev-parse refs/remotes/origin/master [8ms]
+2024-07-20 13:01:53.022 [info] > git status -z -uall [9ms]
+2024-07-20 13:01:53.068 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [29ms]
+2024-07-20 13:01:53.093 [info] > git config --get commit.template [29ms]
+2024-07-20 13:01:53.112 [info] > git config --local branch.master.vscode-merge-base [24ms]
+2024-07-20 13:01:53.130 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-07-20 13:01:53.130 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [13ms]
+2024-07-20 13:01:53.143 [warning] ENOENT: no such file or directory, open '/home/carti/.config/dwmblocks/.git/refs/remotes/origin/master'
+2024-07-20 13:01:53.146 [info] > git merge-base refs/heads/master refs/remotes/origin/master [10ms]
+2024-07-20 13:01:53.159 [info] > git rev-parse refs/remotes/origin/master [16ms]
+2024-07-20 13:01:53.166 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [11ms]
+2024-07-20 13:01:53.173 [info] > git status -z -uall [9ms]
+2024-07-20 13:01:53.193 [info] > git diff --name-status -z --diff-filter=ADMR 58a426b68a507afd3e681f2ea70a245167d3c3fb...refs/remotes/origin/master [22ms]
+2024-07-20 13:01:53.197 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-07-20 13:01:53.204 [info] > git config --local branch.master.vscode-merge-base [3ms]
+2024-07-20 13:01:53.212 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [3ms]
+2024-07-20 13:01:53.281 [info] > git show --textconv :blocks.h [8ms]
+2024-07-20 13:01:53.285 [info] > git ls-files --stage -- /home/carti/.config/dwmblocks/blocks.h [5ms]
+2024-07-20 13:01:53.501 [info] > git check-ignore -v -z --stdin [3ms]
+2024-07-20 13:02:55.465 [info] > git config --get commit.template [7ms]
+2024-07-20 13:02:55.467 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-07-20 13:02:55.470 [warning] ENOENT: no such file or directory, open '/home/carti/.config/dwmblocks/.git/refs/remotes/origin/master'
+2024-07-20 13:02:55.473 [info] > git rev-parse refs/remotes/origin/master [3ms]
+2024-07-20 13:02:55.480 [info] > git status -z -uall [3ms]
+2024-07-20 13:02:55.511 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [7ms]
+2024-07-20 13:02:55.523 [info] > git config --local branch.master.vscode-merge-base [3ms]
+2024-07-20 13:02:55.532 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/master refs/remotes/origin/master [3ms]
