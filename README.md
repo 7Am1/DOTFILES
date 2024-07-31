@@ -17,3 +17,7 @@ git push -u origin master
 
 ## Import the DOTFILES
 Change the directory for the rofi theme (according to the user name)
+```bash
+git clone https://github.com/vinceliuice/WhiteSur-gtk-theme.git --depth=1
+./install.sh
+```
