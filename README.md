@@ -16,3 +16,4 @@ git push -u origin master
 ```
 
 ## Import the DOTFILES
+Change the directory for the rofi theme (according to the user name)
